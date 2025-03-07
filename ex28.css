@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: blueviolet;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#primeira-id{
+   border: 2px solid rebeccapurple;
+}
